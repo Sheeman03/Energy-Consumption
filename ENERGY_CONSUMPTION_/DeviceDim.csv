@@ -1,0 +1,101 @@
+DeviceID,DeviceName,DeviceType,LocationID,Manufacturer,InstallationDate
+1,Device_1,AC,6,Ramakrishnan-Rastogi,2021-11-03
+2,Device_2,HVAC,6,"Madan, Bhardwaj and Ramesh",2023-08-04
+3,Device_3,HVAC,5,"Chadha, Gokhale and Goswami",2023-10-18
+4,Device_4,AC,2,Ramaswamy-Gole,2023-10-02
+5,Device_5,Refrigerator,6,Barman-Devi,2022-09-25
+6,Device_6,Lighting,3,"Kapur, Borah and Luthra",2020-09-09
+7,Device_7,Lighting,1,Som-Dhar,2023-07-07
+8,Device_8,Lighting,2,Sura-Loyal,2022-08-26
+9,Device_9,AC,1,"Ravel, Ramaswamy and Wadhwa",2020-07-18
+10,Device_10,HVAC,3,Datta-Manne,2020-08-21
+11,Device_11,AC,4,Randhawa PLC,2025-01-05
+12,Device_12,AC,3,Dey and Sons,2025-02-16
+13,Device_13,Heater,1,"Mani, Gole and Bajaj",2024-11-03
+14,Device_14,HVAC,2,Jha and Sons,2023-03-19
+15,Device_15,Heater,5,Shan Inc,2022-09-20
+16,Device_16,Washer,6,"Thakur, Bal and Joshi",2025-04-15
+17,Device_17,HVAC,3,Kara-Gaba,2025-03-05
+18,Device_18,HVAC,2,"Sankaran, Karnik and Bal",2023-11-02
+19,Device_19,HVAC,6,Chaudhuri and Sons,2024-06-27
+20,Device_20,Lighting,4,"Majumdar, Johal and Dyal",2023-03-02
+21,Device_21,Lighting,4,Ranganathan-Ranganathan,2021-04-28
+22,Device_22,Heater,6,Sastry-Tella,2021-05-11
+23,Device_23,Heater,4,"Zachariah, Dora and Kapoor",2025-01-22
+24,Device_24,HVAC,2,Warrior-Keer,2024-01-06
+25,Device_25,Heater,3,"Rajan, Sane and Date",2024-10-08
+26,Device_26,Lighting,2,"Butala, Zachariah and Chokshi",2022-10-18
+27,Device_27,AC,2,"Anne, Kala and Saraf",2025-04-26
+28,Device_28,AC,6,Ram Ltd,2022-03-27
+29,Device_29,AC,5,Kibe and Sons,2022-10-28
+30,Device_30,Heater,5,Chaudhary-Walia,2025-03-11
+31,Device_31,Washer,3,Kothari-Butala,2021-12-03
+32,Device_32,Lighting,6,Majumdar-Kale,2024-10-05
+33,Device_33,Washer,5,Savant-Warrior,2023-06-11
+34,Device_34,Heater,4,Dass-Wali,2021-07-06
+35,Device_35,Refrigerator,5,"Bhatia, Dugal and Raju",2022-04-15
+36,Device_36,HVAC,4,"Chaudhary, Maharaj and Vyas",2021-05-23
+37,Device_37,Lighting,3,"Acharya, Lad and Ramesh",2024-06-24
+38,Device_38,AC,2,Hayre and Sons,2022-04-09
+39,Device_39,Washer,2,Shankar PLC,2022-10-19
+40,Device_40,Refrigerator,5,Bhatt Inc,2022-04-25
+41,Device_41,Refrigerator,4,Bhagat Ltd,2021-05-08
+42,Device_42,Lighting,1,Venkatesh Group,2024-10-22
+43,Device_43,Lighting,1,Ramaswamy-Rajan,2024-03-22
+44,Device_44,Refrigerator,1,"Kanda, Buch and Singh",2021-08-10
+45,Device_45,HVAC,2,Balan-Mammen,2021-01-24
+46,Device_46,HVAC,6,"Borah, Kale and Raju",2024-01-22
+47,Device_47,Washer,2,Chand LLC,2025-04-10
+48,Device_48,HVAC,6,"Sodhi, Chauhan and Grover",2024-01-25
+49,Device_49,Refrigerator,4,Wagle-Raju,2021-02-08
+50,Device_50,Refrigerator,5,"Dani, Mangal and Wali",2023-06-16
+51,Device_51,Heater,1,Majumdar LLC,2023-02-11
+52,Device_52,Refrigerator,4,"Hegde, Kari and Bhatti",2023-09-09
+53,Device_53,HVAC,4,Sampath and Sons,2023-12-12
+54,Device_54,AC,5,Sule-Sehgal,2020-07-16
+55,Device_55,Washer,4,"Tata, Sathe and Balasubramanian",2025-03-24
+56,Device_56,Heater,5,Golla PLC,2023-03-12
+57,Device_57,HVAC,3,"Borra, Mani and Kant",2020-10-29
+58,Device_58,Washer,5,Mallick PLC,2023-05-21
+59,Device_59,HVAC,1,Chaudhry-Sule,2021-09-25
+60,Device_60,Heater,6,Savant-Vaidya,2020-10-19
+61,Device_61,Refrigerator,6,Tripathi-Bala,2024-09-14
+62,Device_62,AC,1,Ratta and Sons,2020-06-12
+63,Device_63,Heater,6,Upadhyay-Johal,2023-01-20
+64,Device_64,Refrigerator,5,"De, Rege and Saini",2024-04-08
+65,Device_65,Heater,3,"Kara, Dasgupta and Badami",2022-06-14
+66,Device_66,Lighting,6,"Choudhury, Suresh and Yohannan",2023-07-26
+67,Device_67,AC,3,"Rout, Shankar and Thaman",2023-09-22
+68,Device_68,HVAC,1,Gulati-Barad,2024-02-13
+69,Device_69,HVAC,3,"Garde, Jaggi and Bassi",2024-08-18
+70,Device_70,AC,4,Varughese Group,2021-12-11
+71,Device_71,Lighting,2,"Mahal, Kadakia and Bajwa",2022-01-24
+72,Device_72,Refrigerator,4,Deshpande Ltd,2020-05-02
+73,Device_73,HVAC,1,Dubey and Sons,2023-05-04
+74,Device_74,Lighting,6,"Sangha, Kaul and Chowdhury",2021-01-03
+75,Device_75,HVAC,6,Saha Ltd,2021-08-27
+76,Device_76,Washer,3,"Bail, Hari and Hayer",2024-02-23
+77,Device_77,Refrigerator,5,"Basu, Shukla and Chacko",2020-05-01
+78,Device_78,Washer,2,Kulkarni-Bava,2020-08-27
+79,Device_79,AC,5,Dey-Raval,2021-06-18
+80,Device_80,Refrigerator,1,Ramesh-Luthra,2023-05-02
+81,Device_81,Lighting,6,Cherian-Kala,2024-11-11
+82,Device_82,Refrigerator,3,Wali-Iyengar,2021-06-24
+83,Device_83,Refrigerator,6,"Shere, Sehgal and Seth",2023-03-22
+84,Device_84,Lighting,5,Setty Group,2024-01-16
+85,Device_85,AC,5,"Sane, Kala and Sankar",2023-10-25
+86,Device_86,Refrigerator,2,Atwal-Sarkar,2025-03-03
+87,Device_87,AC,2,Raval-Ram,2022-09-22
+88,Device_88,AC,3,Sant-Samra,2020-08-01
+89,Device_89,AC,2,Sahota-Singh,2022-04-04
+90,Device_90,HVAC,5,"Shan, Karpe and Sahni",2023-07-03
+91,Device_91,Heater,5,Sridhar LLC,2023-05-18
+92,Device_92,AC,1,"Dugar, Sawhney and Basu",2023-02-17
+93,Device_93,Lighting,5,"Cheema, Savant and Deol",2021-07-24
+94,Device_94,Heater,3,"Jayaraman, Mane and Bhat",2022-12-21
+95,Device_95,AC,4,"Jayaraman, Roy and Aurora",2024-08-09
+96,Device_96,Lighting,1,Chad-Sarkar,2023-01-29
+97,Device_97,Lighting,1,"Halder, Chokshi and Soman",2023-04-10
+98,Device_98,Washer,3,Kamdar and Sons,2021-08-28
+99,Device_99,Washer,3,"Sekhon, Saini and Devan",2020-08-24
+100,Device_100,Refrigerator,2,"Sankaran, Verma and Trivedi",2023-12-29
